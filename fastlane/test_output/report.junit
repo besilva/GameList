@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <testsuites name='GameListTests.xctest' tests='7' failures='0'>
   <testsuite name='GameListTests.GameTests' tests='1' failures='0'>
-    <testcase classname='GameListTests.GameTests' name='testGenre' time='0.002'/>
+    <testcase classname='GameListTests.GameTests' name='testGenre' time='0.003'/>
   </testsuite>
   <testsuite name='GameListTests.GameViewModelTests' tests='1' failures='0'>
-    <testcase classname='GameListTests.GameViewModelTests' name='testHoursSpent' time='0.003'/>
+    <testcase classname='GameListTests.GameViewModelTests' name='testHoursSpent' time='0.001'/>
   </testsuite>
   <testsuite name='GameListTests.HomeViewModelTests' tests='5' failures='0'>
-    <testcase classname='GameListTests.HomeViewModelTests' name='testCount' time='0.004'/>
-    <testcase classname='GameListTests.HomeViewModelTests' name='testDelete' time='0.003'/>
-    <testcase classname='GameListTests.HomeViewModelTests' name='testFirst' time='0.002'/>
-    <testcase classname='GameListTests.HomeViewModelTests' name='testSecond' time='0.002'/>
-    <testcase classname='GameListTests.HomeViewModelTests' name='testThird' time='0.003'/>
+    <testcase classname='GameListTests.HomeViewModelTests' name='testCount' time='0.001'/>
+    <testcase classname='GameListTests.HomeViewModelTests' name='testDelete' time='0.001'/>
+    <testcase classname='GameListTests.HomeViewModelTests' name='testFirst' time='0.000'/>
+    <testcase classname='GameListTests.HomeViewModelTests' name='testSecond' time='0.001'/>
+    <testcase classname='GameListTests.HomeViewModelTests' name='testThird' time='0.001'/>
   </testsuite>
 </testsuites>

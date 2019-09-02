@@ -25,5 +25,12 @@ platform :ios do
       output_directory: "xcov_output"
     )
     increment_build_number
+    # needs CI
+    # danger(
+    #   danger_id: "GameList",
+    #   dangerfile: "./Dangerfile",
+    #   github_api_token: ENV[""],
+    #   verbose: true
+    # )
   end
 end
