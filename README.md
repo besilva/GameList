@@ -1,3 +1,3 @@
 # GameList
 
-A description of this package.
+Danger is not work currently :(
